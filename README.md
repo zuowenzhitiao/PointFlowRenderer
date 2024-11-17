@@ -34,3 +34,5 @@ Please consider citing our work if you find it useful:
  year={2019}
 }
 ```
+## GIF Render
+https://github.com/stevenygd/PointFlow/issues/33#issuecomment-1540006748
